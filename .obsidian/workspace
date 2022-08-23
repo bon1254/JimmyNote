@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "1c321124907ef46a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38f266bd9746b27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8873adaf55dd304",
+    "type": "split",
+    "children": [
+      {
+        "id": "033f2b8e9812267a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d413fee5bcdfde0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d82e8b7799e40b1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dda7de6001bf342",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a7d464f5d99f568",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42bd3021b10d419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd6c1270dba36859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cd98cb5909044bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0abcebd0a19660c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fafbba1b40af90a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e38f266bd9746b27",
+  "lastOpenFiles": [
+    "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
+    "Unity筆記/VFX設定.md",
+    "Unity筆記/Unity shader顯示.md",
+    "Unity筆記/TMP創造新字體警告.md",
+    "Unity筆記/DOTween圖片Z軸旋轉方式.md",
+    "圖片區/GooglePlay  Activity、服務或廣播接收器沒有明確聲明值 截圖.png",
+    "GooglePlay Activity、服務或廣播接收器沒有明確聲明值 截圖.md",
+    "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
+    "Unity筆記/GooglePlay上架/未命名.md",
+    "Unity筆記/GooglePlay上架/GooglePlay 隱私權政策網站.md"
+  ]
+}
