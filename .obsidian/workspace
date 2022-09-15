@@ -7,8 +7,12 @@
         "id": "33cce3ab462d3923",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "投影端待辦事項.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "投影端待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "投影端待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "投影端待辦事項.md"
+              }
             }
           }
         ]
@@ -122,6 +130,8 @@
   },
   "active": "33cce3ab462d3923",
   "lastOpenFiles": [
+    "手機端的待辦事項.md",
+    "投影端待辦事項.md",
     "Unity筆記/Unity初始化讀取assetbundle.md",
     "未命名.md",
     "Unity筆記/Unity AssetBundle架構.md",
@@ -129,8 +139,6 @@
     "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
     "Unity筆記/VFX設定.md",
     "Unity筆記/Unity shader顯示.md",
-    "Unity筆記/TMP創造新字體警告.md",
-    "Unity筆記/DOTween圖片Z軸旋轉方式.md",
-    "圖片區/GooglePlay  Activity、服務或廣播接收器沒有明確聲明值 截圖.png"
+    "Unity筆記/TMP創造新字體警告.md"
   ]
 }
