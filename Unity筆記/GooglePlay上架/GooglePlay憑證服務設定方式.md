@@ -8,9 +8,9 @@ OAuth 2.0 用戶端 ID 設置
 
 SHA-1 指紋憑證設置如下：
 
-1.切換到Java的Bin資料夾，打上指令cd C:\Program Files (x86)\Java\jre1.8.0_291\bin 這是我的，橘色字部分路徑打上自己的路徑。
+1.切換到Java的Bin資料夾，打上指令cd C:\Program Files (x86)\Java\jre1.8.0_ 291\bin 這是我的，橘色字部分路徑打上自己的路徑。(如果cd不會導向到目標路徑，則改為cd /d "路徑")
 
-2.查詢指令keytool -list -v -keystore “E:\github\AR ShootBoxes\user.keystore”，橘色字部分Keystore路徑要打上自己的。
+2.查詢指令keytool -list -v -keystore “keystore的陸姓”，Keystore路徑要打上自己的。
 
 3.輸入好之後打上當初設置Keystore的密碼。
 
