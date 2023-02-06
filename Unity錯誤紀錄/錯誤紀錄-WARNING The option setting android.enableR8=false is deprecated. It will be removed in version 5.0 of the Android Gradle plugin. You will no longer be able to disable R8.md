@@ -1,0 +1,2 @@
+
+解決方法:不要用unity內建jdk跟sdk，換成AndroidStudioSDK跟另外下載的JDK
