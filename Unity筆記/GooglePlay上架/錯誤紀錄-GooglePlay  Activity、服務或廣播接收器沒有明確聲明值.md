@@ -1,4 +1,4 @@
-# GooglePlay Activity、服務或廣播接收器沒有明確聲明值
+GooglePlay Activity、服務或廣播接收器沒有明確聲明值
 
 輸出bundle到GooglePlay的問題。
 

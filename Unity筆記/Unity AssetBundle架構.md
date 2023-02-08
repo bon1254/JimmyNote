@@ -1,5 +1,7 @@
 紀錄一下
 
+```ad-abstract
+title: 原始碼
 using System;
 using System.Xml;
 using System.IO;
@@ -157,3 +159,6 @@ public class AssetBundleExport : EditorWindow
         xml.Save(ExportPath + "/BundleVersion.xml");
     }
 }
+
+```
+

@@ -1,3 +1,10 @@
+> [!INFO]
+> 原始碼如下
+
+
+```ad-abstract
+title: 原始碼
+
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -201,3 +208,5 @@ public class AppStarter : MonoBehaviour
         return AssetBundlePaths;
     }
 }
+```
+
