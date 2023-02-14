@@ -13,9 +13,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity筆記/GooglePlay上架/錯誤紀錄-GooglePlay  Activity、服務或廣播接收器沒有明確聲明值.md",
+                "file": "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "dfad19395100d4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c33efbae5f83c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccf4b91f0d2584a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46cb00840d317166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff8d3e9e7694eae3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230214163031.png"
+              }
+            }
+          },
+          {
+            "id": "b1b8cc4c9025f606",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230214162644.png"
               }
             }
           },
@@ -66,40 +134,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c6502d58165e7b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "寫code排版優質插件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee31a50a6b9aa35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian內的排版插件 (Admonitions).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "372db809847ea1e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity筆記/GooglePlay上架/錯誤紀錄-GooglePlay  Activity、服務或廣播接收器沒有明確聲明值.md",
+                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity筆記/GooglePlay上架/錯誤紀錄-GooglePlay  Activity、服務或廣播接收器沒有明確聲明值.md",
+                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity筆記/GooglePlay上架/錯誤紀錄-GooglePlay  Activity、服務或廣播接收器沒有明確聲明值.md"
+                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md"
               }
             }
           }
@@ -226,17 +263,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e40cfa68cf42892d",
+  "active": "3c33efbae5f83c7c",
   "lastOpenFiles": [
-    "Unity筆記/GooglePlay上架/錯誤紀錄-255問題.md",
-    "Unity筆記/GooglePlay上架/錯誤紀錄-GooglePlay  Activity、服務或廣播接收器沒有明確聲明值.md",
-    "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
-    "Unity筆記/DOTween圖片Z軸旋轉方式.md",
-    "Unity筆記/Unity 會出現有些using會沒辦法用到的問題.md",
-    "Unity筆記/Unity shader顯示.md",
     "Unity筆記/Unity AssetBundle架構.md",
-    "Unity筆記/Unity webgl字體問題.md",
+    "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
+    "寫code排版優質插件.md",
+    "Obsidian內的排版插件 (Admonitions).md",
+    "Pasted image 20230214163031.png",
+    "Unity筆記/Unity從S3下載apk (URL) 方法.md",
+    "Pasted image 20230214162644.png",
     "Unity筆記/Unity初始化讀取assetbundle.md",
-    "Unity筆記/Unity讀取本地json.md"
+    "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
+    "Unity筆記/Windows系統Unity3D中的快捷鍵.md"
   ]
 }
