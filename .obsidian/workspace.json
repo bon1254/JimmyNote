@@ -4,139 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcf77c4129c9558",
+        "id": "8da1ff15d38d9752",
         "type": "tabs",
         "children": [
           {
-            "id": "e40cfa68cf42892d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfad19395100d4a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c33efbae5f83c7c",
+            "id": "a8d075298ced6f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccf4b91f0d2584a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46cb00840d317166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity筆記/Unity從S3下載apk (URL) 方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff8d3e9e7694eae3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230214163031.png"
-              }
-            }
-          },
-          {
-            "id": "b1b8cc4c9025f606",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230214162644.png"
-              }
-            }
-          },
-          {
-            "id": "14895378dd3a717b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de2ad9b3748677f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity筆記/GooglePlay上架/Unity GooglePlay中新版注意事項 (包含刪除PlayGamesClientConfiguration).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac66032d62c59d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98dab8556984968e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c33efbae5f83c7c",
+  "active": "a8d075298ced6f53",
   "lastOpenFiles": [
-    "Unity筆記/Unity AssetBundle架構.md",
-    "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
-    "寫code排版優質插件.md",
-    "Obsidian內的排版插件 (Admonitions).md",
-    "Pasted image 20230214163031.png",
-    "Unity筆記/Unity從S3下載apk (URL) 方法.md",
-    "Pasted image 20230214162644.png",
     "Unity筆記/Unity初始化讀取assetbundle.md",
+    "Unity筆記/Unity讀取本地json.md",
+    "Unity筆記/Unity從S3下載apk (URL) 方法.md",
+    "Unity筆記/Unity AssetBundle架構.md",
+    "Unity筆記/Unity webgl字體問題.md",
+    "Unity筆記/DOTween圖片Z軸旋轉方式.md",
     "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
-    "Unity筆記/Windows系統Unity3D中的快捷鍵.md"
+    "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
+    "Unity筆記/GooglePlay上架/Unity GooglePlay中新版注意事項 (包含刪除PlayGamesClientConfiguration).md",
+    "圖片區/Unity從s3下載apk (URL) 的方法/provider_path的內容.png"
   ]
 }

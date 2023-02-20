@@ -130,31 +130,32 @@ public class DownloadAPK : MonoBehaviour
 
 > [!INFO] 需要注意的點
 > >1.如果JavaClass原本是"android.support.v4.content.FileProvider"，要改成"androidx.core.content.FileProvider"，如下圖
-> >![[Pasted image 20230214162644.png]]
+> >![[Androidx.core.content.FileProvider.png]]
 > 
 > >2.匯出至AndroidStudio做AndroidManifiest做設置
-> >3.到gradle.properties中新增android.enableJetifier=true (表示Android插件會通過重寫其二進製文件來自動遷移現有的第三方庫，以使用AndroidX依賴項；未設置時默認為false)和android.useAndroidX=true (表示“Android插件會使用對應的AndroidX庫，而非Support庫)
-> >![[Pasted image 20230214163031.png]]
-> >![[Pasted image 20230214163008.png]]
+> >3.到gradle.properties中新增android.enableJetifier=true (表示Android插件會通過重寫其二進製文件來自動遷移現有的第三方庫，以使用AndroidX依賴項；未設置時默認為false)和android.useAndroidX=true (表示“Android插件會使用對應的AndroidX庫，而非Support庫)，還有android.enableR8=false記得刪掉。
+> >![[gradle.properties (Path).png]]
+> >![[gradle.properties.png]]
 > 
 >> 4.新增以下這段Provider到application底下，並且修正下方錯誤去新增androidx.core (觸摸錯誤地方以顯示)
->>  ![[Pasted image 20230214162953.png]]
->>  
->>5.新增xml/provider_paths，透過下方錯誤去新增 (觸摸錯誤地方以顯示)
->>![[Pasted image 20230214163726.png]]
->>
->> 6.authorities要修改成自己的packageName.fileProiver
->> ![[Pasted image 20230214165658.png]]
+>>  ![[新增androidx.core.png]]
 >
->>7.uses-feature這要新增安裝許可權通知android.permission.REQUEST_INSTALL_PACKAGES
->>![[Pasted image 20230214165858.png]]
->>
->>8.點選後按下OK即新增
->>![[Pasted image 20230214163805.png]]
->>![[Pasted image 20230214163827.png]]
+>
+>>5.新增xml/provider_paths，透過下方錯誤去新增 (觸摸錯誤地方以顯示)
+>>![[新增xml provider_paths.png]]
+>
+>>6.點選後按下OK即新增 (會新增一個xml資料夾在unityLibrary/res/xml，provider_paths.xml在xml底下)
+>>![[新增provider_path.xml畫面.png]]
+>>![[xml provider_paths路徑.png]]
+>
+>> 7.authorities要修改成自己的(packageName).fileProiver
+>> ![[authorities要修改成自己的packageName.fileProiver.png]]
+>
+>>8.uses-feature這要新增安裝許可權通知android.permission.REQUEST_INSTALL_PACKAGES
+>>![[uses-feature安裝許可權通知android.permission.REQUEST_INSTALL_PACKAGES.png]]
 >
 >>9.修改provider_paths內的文件改為底下的
->>![[Pasted image 20230214163943.png]]
+>>![[provider_path的內容.png]]
 >
 >>10.可以輸出apk了
 
