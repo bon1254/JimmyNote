@@ -47,16 +47,50 @@
             "id": "30457b7d30f21163",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "圖片區/Github Fork/Able to Merge.png"
+              }
+            }
+          },
+          {
+            "id": "ec2728c639f7fc54",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
+                "file": "Unity URP筆記/URP Forward Render和Deferred Render Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11eb133f38d936ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/Readme格式參考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ab896fe17a697b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity Lightmap筆記/關於Lightmap UV.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
+                "file": "Unity Lightmap筆記/關於Lightmap UV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
+                "file": "Unity Lightmap筆記/關於Lightmap UV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity筆記/Windows系統Unity3D中的快捷鍵.md"
+                "file": "Unity Lightmap筆記/關於Lightmap UV.md"
               }
             }
           }
@@ -191,39 +225,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d413fee5bcdfde0b",
+  "active": "4ab896fe17a697b2",
   "lastOpenFiles": [
-    "Unity筆記/GooglePlay上架/GooglePlay 隱私權政策網站.md",
+    "Unity HDRP/關於貼圖.md",
+    "Pasted image 20231123094649.png",
+    "GitHub/Readme格式參考.md",
+    "圖片區/HDRP貼圖/RGBA的遮罩貼圖.png",
+    "圖片區/HDRP貼圖",
+    "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
+    "Unity HDRP",
+    "GitHub/關於Fork.md",
+    "Unity Lightmap筆記/關於Lightmap UV.md",
+    "Unity URP筆記/URP Forward Render和Deferred Render Path.md",
+    "Unity Lightmap筆記",
+    "Unity筆記/Unity從S3下載apk (URL) 方法.md",
     "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
-    "Unity筆記/ApplicationPath.md",
-    "Unity筆記/ObjectPool範例.md",
+    "圖片區/SHA-1.png",
+    "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
+    "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
+    "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
+    "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
+    "圖片區/Github Fork/Able to Merge.png",
+    "Unity URP筆記",
+    "C# 筆記/C sharp中斜線n,斜線r,斜線r斜線n的區別.md",
+    "圖片區/Github Fork/New pull request.png",
+    "圖片區/Github Fork/Pull Requests.png",
+    "圖片區/TMP1.png",
+    "Unity筆記/VFX設定.md",
+    "Unity筆記/Unity讀取本地json.md",
+    "Unity筆記/Unity初始化讀取assetbundle.md",
     "Unity筆記/Unity 會出現有些using會沒辦法用到的問題.md",
+    "Unity筆記/ApplicationPath.md",
+    "圖片區/VFX1.png",
+    "圖片區/Github Fork/ForkFrom.png",
+    "圖片區/Github Fork",
+    "GitHub",
+    "Unity筆記/GooglePlay上架/GooglePlay 隱私權政策網站.md",
+    "Unity筆記/ObjectPool範例.md",
     "Unity筆記/DOTween圖片Z軸旋轉方式.md",
     "Unity筆記/GooglePlay上架/Unity GooglePlay中新版注意事項 (包含刪除PlayGamesClientConfiguration).md",
     "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
     "Unity筆記/Unity 內部Log用法.md",
     "Unity筆記/Unity AssetBundle架構.md",
-    "Untitled",
-    "Unity筆記/Unity初始化讀取assetbundle.md",
-    "Unity筆記/VFX設定.md",
-    "Unity筆記/Unity讀取本地json.md",
-    "Unity筆記/Unity從S3下載apk (URL) 方法.md",
-    "Unity筆記/Unity shader顯示.md",
-    "其他插件筆記/Obisidian內的插件 (Callout).md",
-    "Unity筆記/Unity webgl字體問題.md",
-    "C# 筆記/C sharp中斜線n,斜線r,斜線r斜線n的區別.md",
     "圖片區/SHA-2.png",
-    "Unity筆記/GooglePlay上架/錯誤紀錄-GooglePlay  Activity、服務或廣播接收器沒有明確聲明值.md",
-    "圖片區/GooglePlay  Activity、服務或廣播接收器沒有明確聲明值 截圖.png",
-    "其他插件筆記/Obsidian內的排版插件 (Admonitions).md",
-    "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
-    "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
-    "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
-    "其他插件筆記/寫code排版優質插件.md",
     "其他插件筆記",
-    "C# 筆記",
-    "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
-    "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
-    "圖片區/Unity從s3下載apk (URL) 的方法/provider_path的內容.png"
+    "C# 筆記"
   ]
 }
