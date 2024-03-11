@@ -83,14 +83,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Lightmap筆記/關於Lightmap UV.md",
+                "file": "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a755d3d08745f271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c4ac9f83ec85b4a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "圖片區/Pasted image 20240311220402.png"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -119,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Unity筆記/\" ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -164,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity Lightmap筆記/關於Lightmap UV.md",
+                "file": "圖片區/Pasted image 20240311220402.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity Lightmap筆記/關於Lightmap UV.md",
+                "file": "圖片區/Pasted image 20240311220402.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity Lightmap筆記/關於Lightmap UV.md"
+                "file": "圖片區/Pasted image 20240311220402.png"
               }
             }
           }
@@ -225,49 +247,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ab896fe17a697b2",
+  "active": "6c4ac9f83ec85b4a",
   "lastOpenFiles": [
+    "圖片區/GooglePlay  Activity、服務或廣播接收器沒有明確聲明值 截圖.png",
+    "圖片區/Pasted image 20231123094649.png",
+    "圖片區/Pasted image 20240311220448.png",
+    "圖片區/Pasted image 20240311220202.png",
+    "圖片區/Pasted image 20240311215912.png",
+    "圖片區/Pasted image 20240311215534.png",
+    "Unity筆記/Unity 內部Log用法.md",
+    "Unity筆記/Addressable bundle遠端設定.md",
+    "圖片區/Pasted image 20240311220402.png",
+    "圖片區/Pasted image 20240311220038.png",
+    "圖片區/Pasted image 20240311220020.png",
+    "圖片區/Pasted image 20240311215703.png",
+    "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
+    "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
+    "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
+    "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
+    "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
+    "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
+    "ASP.NET/此憑證鏈結是由不受信任的授權單位發出的.md",
+    "ASP.NET",
+    "Unity筆記/ObjectPool範例.md",
+    "Unity筆記/Unity 會出現有些using會沒辦法用到的問題.md",
+    "Unity筆記/Unity AssetBundle架構.md",
+    "Unity Lightmap筆記/關於Lightmap UV.md",
     "Unity HDRP/關於貼圖.md",
-    "Pasted image 20231123094649.png",
     "GitHub/Readme格式參考.md",
     "圖片區/HDRP貼圖/RGBA的遮罩貼圖.png",
     "圖片區/HDRP貼圖",
-    "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
     "Unity HDRP",
     "GitHub/關於Fork.md",
-    "Unity Lightmap筆記/關於Lightmap UV.md",
     "Unity URP筆記/URP Forward Render和Deferred Render Path.md",
     "Unity Lightmap筆記",
     "Unity筆記/Unity從S3下載apk (URL) 方法.md",
-    "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
-    "圖片區/SHA-1.png",
-    "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
-    "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
-    "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
-    "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
-    "圖片區/Github Fork/Able to Merge.png",
     "Unity URP筆記",
     "C# 筆記/C sharp中斜線n,斜線r,斜線r斜線n的區別.md",
-    "圖片區/Github Fork/New pull request.png",
-    "圖片區/Github Fork/Pull Requests.png",
-    "圖片區/TMP1.png",
     "Unity筆記/VFX設定.md",
     "Unity筆記/Unity讀取本地json.md",
     "Unity筆記/Unity初始化讀取assetbundle.md",
-    "Unity筆記/Unity 會出現有些using會沒辦法用到的問題.md",
     "Unity筆記/ApplicationPath.md",
-    "圖片區/VFX1.png",
-    "圖片區/Github Fork/ForkFrom.png",
     "圖片區/Github Fork",
     "GitHub",
     "Unity筆記/GooglePlay上架/GooglePlay 隱私權政策網站.md",
-    "Unity筆記/ObjectPool範例.md",
     "Unity筆記/DOTween圖片Z軸旋轉方式.md",
-    "Unity筆記/GooglePlay上架/Unity GooglePlay中新版注意事項 (包含刪除PlayGamesClientConfiguration).md",
-    "Unity筆記/GooglePlay上架/GooglePlay憑證服務設定方式.md",
-    "Unity筆記/Unity 內部Log用法.md",
-    "Unity筆記/Unity AssetBundle架構.md",
-    "圖片區/SHA-2.png",
     "其他插件筆記",
     "C# 筆記"
   ]
