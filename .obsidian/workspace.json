@@ -105,9 +105,11 @@
             "id": "6c4ac9f83ec85b4a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "圖片區/Pasted image 20240311220402.png"
+                "file": "ASP.NET/Knockout.js 應用 (json資料陣列html元素index判定).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -186,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圖片區/Pasted image 20240311220402.png",
+                "file": "ASP.NET/Knockout.js 應用 (json資料陣列html元素index判定).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圖片區/Pasted image 20240311220402.png",
+                "file": "ASP.NET/Knockout.js 應用 (json資料陣列html元素index判定).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圖片區/Pasted image 20240311220402.png"
+                "file": "ASP.NET/Knockout.js 應用 (json資料陣列html元素index判定).md"
               }
             }
           }
@@ -239,35 +241,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
     }
   },
   "active": "6c4ac9f83ec85b4a",
   "lastOpenFiles": [
+    "Pasted image 20240806111635.png",
+    "Pasted image 20240806111458.png",
+    "Pasted image 20240806110911.png",
+    "Pasted image 20240806105530.png",
+    "Pasted image 20240806105125.png",
+    "Pasted image 20240806105105.png",
+    "Pasted image 20240806104849.png",
+    "ASP.NET/此憑證鏈結是由不受信任的授權單位發出的.md",
+    "ASP.NET/Knockout.js 應用 (json資料陣列html元素index判定).md",
+    "圖片區/Pasted image 20240311220402.png",
     "圖片區/GooglePlay  Activity、服務或廣播接收器沒有明確聲明值 截圖.png",
     "圖片區/Pasted image 20231123094649.png",
     "圖片區/Pasted image 20240311220448.png",
-    "圖片區/Pasted image 20240311220202.png",
-    "圖片區/Pasted image 20240311215912.png",
-    "圖片區/Pasted image 20240311215534.png",
     "Unity筆記/Unity 內部Log用法.md",
     "Unity筆記/Addressable bundle遠端設定.md",
-    "圖片區/Pasted image 20240311220402.png",
-    "圖片區/Pasted image 20240311220038.png",
-    "圖片區/Pasted image 20240311220020.png",
-    "圖片區/Pasted image 20240311215703.png",
     "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
     "Unity錯誤紀錄/錯誤紀錄-Android12以下會黑屏的原因.md",
     "Unity錯誤紀錄/錯誤紀錄-安裝AR人臉辨識Package的Bug.md",
     "Unity錯誤紀錄/錯誤紀錄-匯入google-signin-unity-master 有Task衝突的問題.md",
     "Unity錯誤紀錄/錯誤紀錄-WARNING The option setting android.enableR8=false is deprecated. It will be removed in version 5.0 of the Android Gradle plugin. You will no longer be able to disable R8.md",
     "Unity錯誤紀錄/錯誤紀錄-Unity Google Play Games plugin Force Resolve時候的錯誤.md",
-    "ASP.NET/此憑證鏈結是由不受信任的授權單位發出的.md",
     "ASP.NET",
     "Unity筆記/ObjectPool範例.md",
     "Unity筆記/Unity 會出現有些using會沒辦法用到的問題.md",
@@ -275,7 +279,6 @@
     "Unity Lightmap筆記/關於Lightmap UV.md",
     "Unity HDRP/關於貼圖.md",
     "GitHub/Readme格式參考.md",
-    "圖片區/HDRP貼圖/RGBA的遮罩貼圖.png",
     "圖片區/HDRP貼圖",
     "Unity HDRP",
     "GitHub/關於Fork.md",
@@ -291,7 +294,6 @@
     "圖片區/Github Fork",
     "GitHub",
     "Unity筆記/GooglePlay上架/GooglePlay 隱私權政策網站.md",
-    "Unity筆記/DOTween圖片Z軸旋轉方式.md",
     "其他插件筆記",
     "C# 筆記"
   ]
