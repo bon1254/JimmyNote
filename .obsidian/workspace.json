@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +241,18 @@
   },
   "active": "cabb8c8e97a57b86",
   "lastOpenFiles": [
+    "Pasted image 20240806111635.png",
+    "Pasted image 20240806111458.png",
+    "Pasted image 20240806110911.png",
+    "Pasted image 20240806105530.png",
+    "Pasted image 20240806105125.png",
+    "Pasted image 20240806105105.png",
+    "Pasted image 20240806104849.png",
+    "C# 筆記/ASP.NET/Knockout.js 應用 (json資料陣列html元素index判定).md",
     "HTML/Type類型.md",
-    "HTML/Aria label.md",
     "HTML/Placeholder 用法.md",
     "HTML/HTML筆記.md",
+    "HTML/Aria label.md",
     "C# 筆記/MVC問題.md",
     "HTML",
     "C# 筆記/ASP.NET/ASP.NET MVC觀念.md",
@@ -274,15 +283,7 @@
     "Unity筆記/Windows系統Unity3D中的快捷鍵.md",
     "Unity筆記/VFX設定.md",
     "Unity筆記/Unity讀取本地json.md",
-    "Unity筆記/ApplicationPath.md",
-    "Unity URP筆記/URP Forward Render和Deferred Render Path.md",
-    "Pasted image 20240505230134.png",
-    "Pasted image 20240505230117.png",
     "SQL",
-    "圖片區/GooglePlay  Activity、服務或廣播接收器沒有明確聲明值 截圖.png",
-    "圖片區/Pasted image 20231123094649.png",
-    "圖片區/Pasted image 20240311220448.png",
-    "圖片區/Pasted image 20240311220202.png",
     "C# 筆記/ASP.NET",
     "圖片區/HDRP貼圖",
     "Unity HDRP"
